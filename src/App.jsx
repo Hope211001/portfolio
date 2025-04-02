@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <button className="btn btn-primary">Salut</button>
     </div>
   )
 }
